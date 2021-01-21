@@ -1,0 +1,2 @@
+D:\GitHub\C-BitMap\x64\Debug\CBitMap.exe
+D:\GitHub\C-BitMap\x64\Debug\CBitMap.pdb
